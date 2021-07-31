@@ -1,4 +1,4 @@
-# adb-uninstalls-Huawei-phone-pre-installed-apps
+# adb命令卸载华为预装应用
 
 通过手机连接电脑的方式卸载华为预装应用
 
