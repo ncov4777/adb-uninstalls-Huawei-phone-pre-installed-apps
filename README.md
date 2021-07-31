@@ -35,6 +35,10 @@
 
 ### 卸载
 
+#### adb 查看所有程序包名
+
+注：鉴于华为并未给出完整对应表，未中文注明的谨慎卸载
+
 #### 卸载通用命令
 
 `adb shell pm uninstall --user 0` + 软件包名
@@ -65,4 +69,4 @@
 |       推送服务       |  com.huawei.android.pushagent   |
 |   主页下拉搜索功能   |       com. huawei.search        |
 
-[更多](https://club.huawei.com/thread-20677864-1-1.html)
+[更多](https://zhangyiming748.github.io/2020/08/02/hwPackage/)
